@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: 歡迎來我的部落格
 ---
+這是第一頁。
 
+嘿嘿。
